@@ -1,5 +1,5 @@
 package com.inti.model;
 
-public class Employe {
-
+public class Emplo {
+ 
 }
